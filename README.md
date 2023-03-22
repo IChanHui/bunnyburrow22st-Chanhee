@@ -3,6 +3,7 @@
 haskell backend작업      
 ----
 Guiding-Cody-Bot과 ADIO 백엔드를 AWS Lambda에 haskell파일을 올려서 작업     
+haskell로 AWS에 있는 DynamoDb, S3, Amazon EventBridge, API Gateway를 작업    
 
 ## Guiding-Cody-Bot : 마음케어 서비스를 운영하는 커뮤니티
 >디스코드에서 사용자들이 커뮤니티를 잘 이용할 수 있게 봇 서비스를 제공   
